@@ -5,7 +5,14 @@
         <classes>
             <class name="com.webShop.tests.LoginTest">
                 <methods>
-                    <include name=".*Negative.*"/>
+                    <include name=".*Negative.*">
+                    </include>
+                </methods>
+            </class>
+            <class name="com.webShop.tests.RegistrationTest">
+                <methods>
+                    <include name=".*Negative.*">
+                    </include>
                 </methods>
             </class>
         </classes>
