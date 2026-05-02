@@ -22,7 +22,7 @@ task qa1(type:Test) {
         def suite3 = project.hasProperty("suite3")
         if (suite1) {
             suites 'src/test/resources/smokeTest.xml'
-        }  (suite2) {
+        } else if (suite2) {
             suites 'src/test/resources/loginRegistrationNegativeTests.xml'
         } else if (suite3) {
             suites 'src/test/resources/negative.xml'
@@ -35,5 +35,10 @@ task qa1(type:Test) {
 
     test {
         useTestNG()
+    }
+    task qa2(type: Test) {
+        useTestNG() {
+            suites 'src/test/resources/loginRegistrationNegativeTests.xml'
+        }
     }
 }

@@ -10,7 +10,7 @@
             </class>
             <class name="com.webShop.tests.LoginTest">
                 <methods>
-                    <include name="LoginFormNegativeTestInvalidValues"/>
+                    <include name=".*Negative.*"/>
                 </methods>
             </class>
         </classes>
