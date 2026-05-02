@@ -1,0 +1,24 @@
+19:35:04.577 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:35:07.266 [main] INFO  com.webShop.tests.TestBase -- Start testfillInRegistrationFormNegativeTest[dominic, gatsby, dominnee@gm.com, Hatsby@2, Hatsby@2]
+19:35:07.280 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:35:07.597 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:35:07.598 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:35:08.493 [main] INFO  com.webShop.tests.TestBase -- PASSEDfillInRegistrationFormNegativeTest
+19:35:08.493 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:35:08.493 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:35:08.494 [main] INFO  com.webShop.tests.TestBase -- Start testfillInRegistrationFormNegativeTest[paul , schnider, schmidteh@gmail.com, schnideR@3, schnideR@3]
+19:35:08.495 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:35:08.787 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:35:08.788 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:35:09.567 [main] INFO  com.webShop.tests.TestBase -- PASSEDfillInRegistrationFormNegativeTest
+19:35:09.567 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:35:09.567 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:35:09.571 [main] INFO  com.webShop.tests.TestBase -- Start testfillInRegistrationFormNegativeTest[sendy, sindel, sendi13@gmail.com, sindel#R10046h, sindel#R10046h]
+19:35:09.572 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:35:09.861 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:35:09.862 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:35:10.622 [main] INFO  com.webShop.tests.TestBase -- PASSEDfillInRegistrationFormNegativeTest
+19:35:10.623 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:35:10.623 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
