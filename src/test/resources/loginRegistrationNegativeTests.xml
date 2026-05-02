@@ -3,12 +3,12 @@
 <suite name="Negative" verbose="1">
     <test name="Negative">
         <classes>
-            <class name="com.webShop.tests.RegistrationTest">
+            <class name="com.webShop.tests.LoginTest">
                 <methods>
                     <include name=".*Negative.*"/>
                 </methods>
             </class>
-            <class name="com.webShop.tests.LoginTest">
+            <class name="com.webShop.tests.RegistrationTest">
                 <methods>
                     <include name=".*Negative.*"/>
                 </methods>

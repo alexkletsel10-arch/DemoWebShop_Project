@@ -1,0 +1,54 @@
+21:28:32.493 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Projects_Automation/DemoWebshopPom/src/test/resources/loginRegistrationNegativeTests.xml
+
+21:28:36.084 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[dominnni@gm.com, Hatsby@]
+21:28:36.097 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:36.110 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:36.445 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:36.445 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:36.445 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnni@gm.com
+21:28:37.156 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormNegativeTestInvalidValues
+21:28:37.156 [main] INFO  com.webShop.tests.TestBase -- Stop test
+21:28:37.156 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+21:28:39.590 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[schmidt@gmail.com, schnide2kkwodkoskdoslkdokoowddkowkdwo]
+21:28:39.592 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:39.600 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:39.910 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:39.910 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:39.911 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsschmidt@gmail.com
+21:28:40.464 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormNegativeTestInvalidValues
+21:28:40.464 [main] INFO  com.webShop.tests.TestBase -- Stop test
+21:28:40.464 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+21:28:42.825 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[send12@gmail.com, sindel10045h]
+21:28:42.826 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:42.835 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:43.157 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:43.157 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:43.157 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldssend12@gmail.com
+21:28:43.762 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormNegativeTestInvalidValues
+21:28:43.762 [main] INFO  com.webShop.tests.TestBase -- Stop test
+21:28:43.762 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+21:28:46.040 [main] INFO  com.webShop.tests.TestBase -- Start testfillInRegistrationFormNegativeTest[dominic, gatsby, dominnee@gm.com, Hatsby@2, Hatsby@2]
+21:28:46.042 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:46.056 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:46.363 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:46.364 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:47.489 [main] INFO  com.webShop.tests.TestBase -- PASSEDfillInRegistrationFormNegativeTest
+21:28:47.489 [main] INFO  com.webShop.tests.TestBase -- Stop test
+21:28:47.489 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+21:28:49.760 [main] INFO  com.webShop.tests.TestBase -- Start testfillInRegistrationFormNegativeTest[paul , schnider, schmidteh@gmail.com, schnideR@3, schnideR@3]
+21:28:49.764 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:49.777 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:50.104 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:50.105 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:50.996 [main] INFO  com.webShop.tests.TestBase -- PASSEDfillInRegistrationFormNegativeTest
+21:28:50.996 [main] INFO  com.webShop.tests.TestBase -- Stop test
+21:28:50.996 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+21:28:53.538 [main] INFO  com.webShop.tests.TestBase -- Start testfillInRegistrationFormNegativeTest[sendy, sindel, sendi13@gmail.com, sindel#R10046h, sindel#R10046h]
+21:28:53.540 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:53.547 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:53.857 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:53.857 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:28:54.870 [main] INFO  com.webShop.tests.TestBase -- PASSEDfillInRegistrationFormNegativeTest
+21:28:54.870 [main] INFO  com.webShop.tests.TestBase -- Stop test
+21:28:54.870 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

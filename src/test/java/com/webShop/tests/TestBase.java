@@ -25,7 +25,7 @@ public class TestBase {
     WebDriver driver;
     public Logger logger = LoggerFactory.getLogger(TestBase.class);
 
-    @BeforeSuite
+    @BeforeMethod
     public void init(){
         driver = new ChromeDriver();
         driver.get("https://demowebshop.tricentis.com/");
@@ -64,7 +64,7 @@ public String takeScreenShot() {
     return screenshot.getAbsolutePath();
 
  }
-    @AfterSuite()
+    @AfterMethod()
     public void stop(){
         driver.quit();
 
