@@ -1,0 +1,15 @@
+20:05:39.267 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+20:05:45.650 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:05:45.651 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:05:45.991 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:05:46.389 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:05:46.394 [main] INFO  com.webShop.tests.TestBase -- Start testremoveProduct[]
+20:05:46.396 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:05:48.292 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:05:52.593 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:05:52.594 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:06:03.221 [main] ERROR com.webShop.tests.TestBase -- FAILEDremoveProductScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1774631163219.png
+20:06:03.221 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:06:03.222 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

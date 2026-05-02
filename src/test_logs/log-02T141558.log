@@ -1,0 +1,30 @@
+14:15:58.342 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+14:16:01.104 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[dominnni@gm.com, Hatsby@]
+14:16:01.114 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:16:01.127 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:16:01.457 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:16:01.457 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:16:01.458 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnni@gm.com
+14:16:01.991 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormNegativeTestInvalidValues
+14:16:01.991 [main] INFO  com.webShop.tests.TestBase -- Stop test
+14:16:01.991 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:16:01.992 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[schmidt@gmail.com, schnide2kkwodkoskdoslkdokoowddkowkdwo]
+14:16:01.993 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:16:01.997 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:16:02.292 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:16:02.292 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:16:02.292 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsschmidt@gmail.com
+14:16:02.754 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormNegativeTestInvalidValues
+14:16:02.754 [main] INFO  com.webShop.tests.TestBase -- Stop test
+14:16:02.754 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:16:02.755 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[send12@gmail.com, sindel10045h]
+14:16:02.756 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:16:02.762 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:16:03.216 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:16:03.216 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:16:03.216 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldssend12@gmail.com
+14:16:03.867 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormNegativeTestInvalidValues
+14:16:03.867 [main] INFO  com.webShop.tests.TestBase -- Stop test
+14:16:03.868 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

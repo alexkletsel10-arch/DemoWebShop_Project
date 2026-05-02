@@ -1,0 +1,15 @@
+16:13:36.433 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+16:13:39.440 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:13:39.441 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:13:39.820 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:13:40.020 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:13:40.022 [main] INFO  com.webShop.tests.TestBase -- Start testfindProperItem[]
+16:13:40.022 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:13:41.064 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:13:45.458 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:13:45.460 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:13:45.638 [main] ERROR com.webShop.tests.TestBase -- FAILEDfindProperItemScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1774102425635.png
+16:13:45.638 [main] INFO  com.webShop.tests.TestBase -- Stop test
+16:13:45.638 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

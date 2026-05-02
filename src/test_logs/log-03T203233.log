@@ -1,0 +1,15 @@
+20:32:33.785 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+20:32:36.381 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:32:36.383 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:32:36.705 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:32:37.401 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:32:37.407 [main] INFO  com.webShop.tests.TestBase -- Start testupdateQuantity[]
+20:32:37.408 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:32:38.073 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:32:42.439 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:32:42.441 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:32:42.583 [main] INFO  com.webShop.tests.TestBase -- PASSEDupdateQuantity
+20:32:42.584 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:32:42.584 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

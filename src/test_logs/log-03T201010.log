@@ -1,0 +1,15 @@
+20:10:10.260 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+20:10:13.001 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:10:13.002 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:10:13.303 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:10:14.143 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:10:14.146 [main] INFO  com.webShop.tests.TestBase -- Start testupdateQuantity[]
+20:10:14.148 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:10:14.670 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:10:19.044 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:10:19.046 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:10:29.635 [main] ERROR com.webShop.tests.TestBase -- FAILEDupdateQuantityScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1775236229633.png
+20:10:29.635 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:10:29.635 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

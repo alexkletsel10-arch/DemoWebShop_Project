@@ -1,0 +1,15 @@
+19:03:38.850 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:03:41.349 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:41.350 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:41.619 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:41.799 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:41.801 [main] INFO  com.webShop.tests.TestBase -- Start testgetListOfItems[]
+19:03:41.802 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:42.740 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:47.117 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:47.118 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:47.145 [main] INFO  com.webShop.tests.TestBase -- PASSEDgetListOfItems
+19:03:47.145 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:03:47.145 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

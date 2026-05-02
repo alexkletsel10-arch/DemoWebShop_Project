@@ -1,0 +1,15 @@
+19:19:35.109 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:19:37.689 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:19:37.690 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:19:38.044 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:19:38.757 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:19:38.761 [main] INFO  com.webShop.tests.TestBase -- Start testverifyIfCartIsNotEmpty[]
+19:19:38.762 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:19:39.352 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:19:43.765 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:19:43.768 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:19:43.778 [main] INFO  com.webShop.tests.TestBase -- PASSEDverifyIfCartIsNotEmpty
+19:19:43.778 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:19:43.778 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

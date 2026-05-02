@@ -1,0 +1,38 @@
+20:11:51.437 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Projects_Automation/DemoWebshopPom/src/test/resources/smokeTest.xml
+
+20:11:54.626 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[dominnni@gm.com, Hatsby@]
+20:11:54.657 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:55.122 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:55.124 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:55.124 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnni@gm.com
+20:11:55.642 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormNegativeTestInvalidValues
+20:11:55.642 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:11:55.642 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+20:11:55.643 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[schmidt@gmail.com, schnide2kkwodkoskdoslkdokoowddkowkdwo]
+20:11:55.645 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:55.937 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:55.938 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:55.938 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsschmidt@gmail.com
+20:11:56.378 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormNegativeTestInvalidValues
+20:11:56.378 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:11:56.378 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+20:11:56.379 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[send12@gmail.com, sindel10045h]
+20:11:56.380 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:56.685 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:56.686 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:56.686 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldssend12@gmail.com
+20:11:57.145 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormNegativeTestInvalidValues
+20:11:57.145 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:11:57.145 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+20:11:57.148 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[dominnee@gm.com, Hatsby@2]
+20:11:57.149 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:57.463 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:57.464 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:57.465 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+20:11:58.216 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:11:58.256 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormPositiveTest
+20:11:58.257 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:11:58.257 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+20:11:58.258 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[schmidteh@gmail.com, schnideR@3]
+20:11:58.259 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser

@@ -1,0 +1,13 @@
+23:33:08.201 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+23:33:10.820 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:33:10.821 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:33:11.117 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:33:11.781 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:33:11.786 [main] INFO  com.webShop.tests.TestBase -- Start testfindProperItem[]
+23:33:11.792 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:33:11.895 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:33:21.930 [main] INFO  com.webShop.tests.TestBase -- PASSEDfindProperItem
+23:33:21.931 [main] INFO  com.webShop.tests.TestBase -- Stop test
+23:33:21.931 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

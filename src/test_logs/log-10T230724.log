@@ -1,0 +1,14 @@
+23:07:24.321 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+23:07:27.096 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:07:27.097 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:07:27.391 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:07:28.094 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:07:28.101 [main] INFO  com.webShop.tests.TestBase -- Start testDigitalDownloadAddToCartSelectQuantity[]
+23:07:28.102 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:07:28.579 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:07:28.581 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:07:39.865 [main] ERROR com.webShop.tests.TestBase -- FAILEDDigitalDownloadAddToCartSelectQuantityScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1775851659863.png
+23:07:39.866 [main] INFO  com.webShop.tests.TestBase -- Stop test
+23:07:39.866 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

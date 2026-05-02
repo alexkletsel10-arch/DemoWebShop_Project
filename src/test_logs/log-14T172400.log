@@ -1,0 +1,14 @@
+17:24:01.051 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+17:24:04.757 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:24:04.758 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:24:05.108 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:24:05.920 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:24:05.926 [main] INFO  com.webShop.tests.TestBase -- Start testaddPreferedBookToCart[]
+17:24:05.927 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:24:06.525 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:24:06.528 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:24:16.977 [main] ERROR com.webShop.tests.TestBase -- FAILEDaddPreferedBookToCartScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1773501856972.png
+17:24:16.977 [main] INFO  com.webShop.tests.TestBase -- Stop test
+17:24:16.977 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

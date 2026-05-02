@@ -1,0 +1,10 @@
+23:20:29.287 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+23:20:32.756 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:20:32.757 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:20:33.164 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:20:33.165 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnne@gm.com
+23:20:33.965 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:20:33.969 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[dominnee@gm.com, Hatsby@2]
+23:20:33.971 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser

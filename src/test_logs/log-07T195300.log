@@ -1,0 +1,39 @@
+19:53:00.527 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:53:03.085 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:03.086 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:03.388 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:03.624 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:03.629 [main] INFO  com.webShop.tests.TestBase -- Start testfillInRegistrationFormPositiveTest[dominic, gatsby, dominnee@gm.com, Hatsby@2, Hatsby@2]
+19:53:03.631 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:03.927 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:03.931 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:05.241 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:05.260 [main] INFO  com.webShop.tests.TestBase -- PASSEDfillInRegistrationFormPositiveTest
+19:53:05.260 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:53:05.260 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:53:07.553 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:07.555 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:07.831 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:08.100 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:08.102 [main] INFO  com.webShop.tests.TestBase -- Start testfillInRegistrationFormPositiveTest[paul , schnider, schmidteh@gmail.com, schnideR@3, schnideR@3]
+19:53:08.102 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:08.376 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:08.378 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:09.691 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:09.705 [main] INFO  com.webShop.tests.TestBase -- PASSEDfillInRegistrationFormPositiveTest
+19:53:09.705 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:53:09.705 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:53:12.040 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:12.041 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:12.316 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:12.749 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:12.752 [main] INFO  com.webShop.tests.TestBase -- Start testfillInRegistrationFormPositiveTest[sendy, sindel, sendi13@gmail.com, sindel#R10046h, sindel#R10046h]
+19:53:12.753 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:13.040 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:13.041 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:14.336 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:14.354 [main] INFO  com.webShop.tests.TestBase -- PASSEDfillInRegistrationFormPositiveTest
+19:53:14.354 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:53:14.354 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

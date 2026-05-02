@@ -1,0 +1,15 @@
+16:45:15.039 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+16:45:20.486 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:45:20.488 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:45:20.856 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:45:21.585 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:45:21.591 [main] INFO  com.webShop.tests.TestBase -- Start testsearchForProductPrice[]
+16:45:21.594 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:45:22.263 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:45:27.056 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:45:27.058 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+16:45:37.256 [main] ERROR com.webShop.tests.TestBase -- FAILEDsearchForProductPriceScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1774104337254.png
+16:45:37.256 [main] INFO  com.webShop.tests.TestBase -- Stop test
+16:45:37.256 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

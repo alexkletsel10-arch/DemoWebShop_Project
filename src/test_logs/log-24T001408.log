@@ -1,0 +1,30 @@
+00:14:09.171 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+00:14:12.003 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[dominnee@gm.com, Hatsby@2]
+00:14:12.012 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:14:12.348 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:14:12.349 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:14:12.349 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+00:14:12.557 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:14:13.628 [main] ERROR com.webShop.tests.TestBase -- FAILEDLoginFormPositiveTestScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1776978853626.png
+00:14:13.628 [main] INFO  com.webShop.tests.TestBase -- Stop test
+00:14:13.628 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+00:14:15.993 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[schmidteh@gmail.com, schnideR@3]
+00:14:15.995 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:14:16.365 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:14:16.366 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:14:16.366 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsschmidteh@gmail.com
+00:14:16.576 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:14:17.161 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormPositiveTest
+00:14:17.161 [main] INFO  com.webShop.tests.TestBase -- Stop test
+00:14:17.161 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+00:14:20.383 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[sendi13@gmail.com, sindel#R10046h]
+00:14:20.384 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:14:20.733 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:14:20.734 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:14:20.734 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldssendi13@gmail.com
+00:14:21.520 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:14:21.552 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormPositiveTest
+00:14:21.553 [main] INFO  com.webShop.tests.TestBase -- Stop test
+00:14:21.553 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

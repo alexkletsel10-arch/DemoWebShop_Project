@@ -1,0 +1,10 @@
+<suite name="Smoky" verbose="1">
+    <test name="Smoky1">
+        <classes>
+            <class name="com.webShop.tests.LoginTest"/>
+                <methods>
+                    <exclude name=".*Negative.*"></exclude>
+                </methods>
+        </classes>
+    </test>
+</suite>

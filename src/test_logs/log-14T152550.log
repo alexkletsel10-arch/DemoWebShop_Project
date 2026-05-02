@@ -1,0 +1,14 @@
+15:25:51.134 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+15:25:57.297 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:25:57.302 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:25:57.761 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:25:58.958 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:25:58.965 [main] INFO  com.webShop.tests.TestBase -- Start testcheckThatCertainBookIsPresent[]
+15:25:58.967 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:25:59.945 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:25:59.963 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:26:00.622 [main] ERROR com.webShop.tests.TestBase -- FAILEDcheckThatCertainBookIsPresentScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1773494760616.png
+15:26:00.623 [main] INFO  com.webShop.tests.TestBase -- Stop test
+15:26:00.623 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

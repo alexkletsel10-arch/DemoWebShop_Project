@@ -1,0 +1,30 @@
+00:11:27.122 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+00:11:34.714 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTestWithCheckBox[dominnee@gm.com, Hatsby@2]
+00:11:34.730 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:11:35.103 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:11:35.105 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:11:35.105 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+00:11:35.345 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:11:36.826 [main] ERROR com.webShop.tests.TestBase -- FAILEDLoginFormPositiveTestWithCheckBoxScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1776978696811.png
+00:11:36.826 [main] INFO  com.webShop.tests.TestBase -- Stop test
+00:11:36.826 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+00:11:39.410 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTestWithCheckBox[schmidteh@gmail.com, schnideR@3]
+00:11:39.412 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:11:39.761 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:11:39.762 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:11:39.762 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsschmidteh@gmail.com
+00:11:40.022 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:11:40.615 [main] ERROR com.webShop.tests.TestBase -- FAILEDLoginFormPositiveTestWithCheckBoxScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1776978700614.png
+00:11:40.615 [main] INFO  com.webShop.tests.TestBase -- Stop test
+00:11:40.615 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+00:11:43.120 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTestWithCheckBox[sendi13@gmail.com, sindel#R10046h]
+00:11:43.124 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:11:43.445 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:11:43.446 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:11:43.446 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldssendi13@gmail.com
+00:11:43.752 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:11:44.375 [main] ERROR com.webShop.tests.TestBase -- FAILEDLoginFormPositiveTestWithCheckBoxScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1776978704375.png
+00:11:44.376 [main] INFO  com.webShop.tests.TestBase -- Stop test
+00:11:44.376 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

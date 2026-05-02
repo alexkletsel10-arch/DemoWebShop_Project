@@ -1,0 +1,14 @@
+15:32:17.828 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+15:32:25.841 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:32:25.846 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:32:26.402 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:32:28.220 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:32:28.235 [main] INFO  com.webShop.tests.TestBase -- Start testcheckThatCertainBookIsPresent[]
+15:32:28.242 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:32:29.204 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:32:29.209 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:32:29.454 [main] INFO  com.webShop.tests.TestBase -- PASSEDcheckThatCertainBookIsPresent
+15:32:29.455 [main] INFO  com.webShop.tests.TestBase -- Stop test
+15:32:29.455 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

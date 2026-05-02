@@ -1,0 +1,15 @@
+18:42:21.322 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+18:42:28.949 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:42:28.954 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:42:29.472 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:42:31.328 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:42:31.344 [main] INFO  com.webShop.tests.TestBase -- Start testcheckIfItemPresentInShoppingCart[]
+18:42:31.347 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:42:32.088 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:42:36.501 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:42:36.502 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:42:37.146 [main] ERROR com.webShop.tests.TestBase -- FAILEDcheckIfItemPresentInShoppingCartScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1775230957143.png
+18:42:37.147 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:42:37.147 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

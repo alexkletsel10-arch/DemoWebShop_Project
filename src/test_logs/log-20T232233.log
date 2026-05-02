@@ -1,0 +1,14 @@
+23:22:33.235 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+23:22:36.426 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:22:36.428 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:22:36.820 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:22:37.728 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:22:37.734 [main] INFO  com.webShop.tests.TestBase -- Start testfindOutAmountOfItemsOnPage[]
+23:22:37.735 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:22:38.286 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:22:38.288 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:22:38.299 [main] INFO  com.webShop.tests.TestBase -- PASSEDfindOutAmountOfItemsOnPage
+23:22:38.299 [main] INFO  com.webShop.tests.TestBase -- Stop test
+23:22:38.299 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

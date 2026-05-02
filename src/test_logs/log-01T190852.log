@@ -1,0 +1,33 @@
+19:08:52.842 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:08:55.360 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTestWithCheckBox[dominnee@gm.com, Hatsby@2]
+19:08:55.368 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:55.376 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:55.686 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:55.686 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:55.686 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+19:08:56.457 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:56.475 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormPositiveTestWithCheckBox
+19:08:56.475 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:08:56.475 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:08:56.475 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTestWithCheckBox[schmidteh@gmail.com, schnideR@3]
+19:08:56.476 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:57.070 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:57.373 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:57.373 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:57.373 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsschmidteh@gmail.com
+19:08:58.097 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:58.107 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormPositiveTestWithCheckBox
+19:08:58.108 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:08:58.108 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:08:58.108 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTestWithCheckBox[sendi13@gmail.com, sindel#R10046h]
+19:08:58.109 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:58.698 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:59.007 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:59.008 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:59.008 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldssendi13@gmail.com
+19:08:59.597 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:08:59.631 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormPositiveTestWithCheckBox
+19:08:59.631 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:08:59.631 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

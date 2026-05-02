@@ -1,0 +1,15 @@
+18:50:29.353 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+18:50:32.187 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:50:32.188 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:50:32.465 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:50:33.152 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:50:33.157 [main] INFO  com.webShop.tests.TestBase -- Start testcheckIfItemPresentInShoppingCart[]
+18:50:33.158 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:50:33.744 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:50:38.145 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:50:38.146 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:50:38.175 [main] INFO  com.webShop.tests.TestBase -- PASSEDcheckIfItemPresentInShoppingCart
+18:50:38.175 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:50:38.175 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

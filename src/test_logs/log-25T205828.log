@@ -1,0 +1,6 @@
+20:58:30.951 [Test worker] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[dominnni@gm.com, Hatsby@]
+20:58:30.958 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:58:31.285 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:58:31.287 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:58:31.287 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnni@gm.com
+20:58:31.728 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser

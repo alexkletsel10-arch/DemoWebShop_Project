@@ -1,0 +1,27 @@
+20:35:56.351 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+20:35:59.484 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[dominnee@gm.com, Hatsby@2]
+20:35:59.499 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:35:59.844 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:35:59.845 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:36:00.517 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:36:00.560 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormPositiveTest
+20:36:00.560 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:36:00.560 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+20:36:03.268 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[schmidteh@gmail.com, schnideR@3]
+20:36:03.271 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:36:03.596 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:36:03.597 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:36:03.792 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:36:04.343 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormPositiveTest
+20:36:04.343 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:36:04.343 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+20:36:06.972 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[sendi13@gmail.com, sindel#R10046h]
+20:36:06.973 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:36:07.270 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:36:07.271 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:36:07.473 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:36:07.935 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormPositiveTest
+20:36:07.935 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:36:07.935 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

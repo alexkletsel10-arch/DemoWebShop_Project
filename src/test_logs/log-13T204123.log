@@ -1,0 +1,11 @@
+20:41:23.594 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+20:41:26.225 [main] INFO  com.webShop.tests.TestBase -- Start testanswerTheCommunityPollSurvey[]
+20:41:26.239 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:41:26.558 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:41:26.760 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:41:26.762 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:41:38.217 [main] ERROR com.webShop.tests.TestBase -- FAILEDanswerTheCommunityPollSurveyScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1771008098214.png
+20:41:38.218 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:41:38.218 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

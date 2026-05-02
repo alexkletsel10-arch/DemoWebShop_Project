@@ -1,0 +1,27 @@
+00:08:22.407 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+00:08:25.264 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[dominnni@gm.com, Hatsby@]
+00:08:25.280 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:08:25.626 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:08:25.627 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:08:25.627 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnni@gm.com
+00:08:26.536 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormNegativeTestInvalidValues
+00:08:26.536 [main] INFO  com.webShop.tests.TestBase -- Stop test
+00:08:26.536 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+00:08:28.943 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[schmidt@gmail.com, schnide2kkwodkoskdoslkdokoowddkowkdwo]
+00:08:28.945 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:08:29.281 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:08:29.282 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:08:29.282 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsschmidt@gmail.com
+00:08:30.126 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormNegativeTestInvalidValues
+00:08:30.126 [main] INFO  com.webShop.tests.TestBase -- Stop test
+00:08:30.126 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+00:08:32.704 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormNegativeTestInvalidValues[send12@gmail.com, sindel10045h]
+00:08:32.705 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:08:33.034 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:08:33.034 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+00:08:33.034 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldssend12@gmail.com
+00:08:33.863 [main] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormNegativeTestInvalidValues
+00:08:33.864 [main] INFO  com.webShop.tests.TestBase -- Stop test
+00:08:33.864 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

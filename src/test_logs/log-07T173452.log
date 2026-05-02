@@ -1,0 +1,11 @@
+17:34:53.013 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+17:34:55.599 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:34:55.600 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:34:55.881 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:34:56.546 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:34:56.556 [main] INFO  com.webShop.tests.TestBase -- Start testaddGiftCardToCart[]
+17:34:56.557 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:34:57.038 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:34:57.039 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser

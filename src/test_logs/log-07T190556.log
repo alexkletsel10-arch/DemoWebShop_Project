@@ -1,0 +1,9 @@
+19:05:56.511 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:05:58.941 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:05:58.943 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:05:59.239 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:05:59.424 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:05:59.425 [main] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[dominnne@gm.com, Hatsby@1]
+19:05:59.426 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser

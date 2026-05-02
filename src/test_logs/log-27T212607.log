@@ -1,0 +1,15 @@
+21:26:07.693 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+21:26:10.985 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:26:10.986 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:26:11.276 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:26:12.157 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:26:12.161 [main] INFO  com.webShop.tests.TestBase -- Start testremoveProduct[]
+21:26:12.162 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:26:12.746 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:26:17.131 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:26:17.133 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+21:26:17.184 [main] INFO  com.webShop.tests.TestBase -- PASSEDremoveProduct
+21:26:17.184 [main] INFO  com.webShop.tests.TestBase -- Stop test
+21:26:17.184 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

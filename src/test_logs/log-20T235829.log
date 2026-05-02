@@ -1,0 +1,9 @@
+23:58:29.409 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+23:58:32.015 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:58:32.017 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:58:32.318 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:58:32.954 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:58:32.962 [main] INFO  com.webShop.tests.TestBase -- Start testsearchForProductPrice[]
+23:58:32.966 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser

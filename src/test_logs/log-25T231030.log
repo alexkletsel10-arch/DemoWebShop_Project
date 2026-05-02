@@ -1,0 +1,35 @@
+23:10:30.856 [Test worker] WARN  org.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [/Users/alenkletsel/Projects_Automation/DemoWebshopPom/src/test/resources/smokeTest.xml] otherwise TestNG may fail or not work as expected.
+23:10:34.988 [Test worker] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[dominnee@gm.com, Hatsby@2]
+23:10:35.006 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:35.035 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:35.369 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:35.370 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:35.370 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+23:10:36.141 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:36.160 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormPositiveTest
+23:10:36.160 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+23:10:36.160 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+23:10:36.161 [Test worker] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[schmidteh@gmail.com, schnideR@3]
+23:10:36.162 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:36.731 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:37.093 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:37.093 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:37.094 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fieldsschmidteh@gmail.com
+23:10:37.674 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:37.713 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormPositiveTest
+23:10:37.714 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+23:10:37.714 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+23:10:37.714 [Test worker] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTest[sendi13@gmail.com, sindel#R10046h]
+23:10:37.715 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:38.291 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:38.663 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:38.664 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:38.664 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fieldssendi13@gmail.com
+23:10:39.316 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:39.326 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDLoginFormPositiveTest
+23:10:39.326 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+23:10:39.327 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+23:10:39.328 [Test worker] INFO  com.webShop.tests.TestBase -- Start testLoginFormPositiveTestWithCheckBox[dominnee@gm.com, Hatsby@2]
+23:10:39.328 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:40.024 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+23:10:40.024 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
