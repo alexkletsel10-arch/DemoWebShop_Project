@@ -11,11 +11,17 @@ public class RegistrationTest extends TestBase {
 
     @BeforeMethod
     public void selectRegistration(){
-        new HomePage(driver).selectRegistrationLink();
+        HomePage homePage = new HomePage(driver);
+        if (!homePage.isLoginLinkPresent()) {
+            homePage.clickOnLogOutLinkIfPresent();
+
+        }
     }
 
     @Test(dataProvider = "DemoWebCsv",dataProviderClass = DataProviders.class)
     public void fillInRegistrationFormPositiveTest(String fName, String lName, String userEmail, String userPassword, String cPassword){
+        new HomePage(driver)
+                .selectRegistrationLink();
         new RegistrationPage(driver).selectRadioButton()
                 .fillInRequiredFields(fName,lName,userEmail,userPassword,cPassword)
                 .selectRegisterButton()
@@ -25,6 +31,8 @@ public class RegistrationTest extends TestBase {
     }
     @Test(dataProvider = "DemoWebCsv",dataProviderClass = DataProviders.class)
     public void fillInRegistrationFormNegativeTest(String fName, String lName, String userEmail, String userPassword, String cPassword){
+        new HomePage(driver)
+                .selectRegistrationLink();
         new RegistrationPage(driver).selectRadioButton()
                 .fillInRequiredFields(fName, lName, userEmail, userPassword, cPassword)
                 .selectRegisterButton()
