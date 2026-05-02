@@ -6,12 +6,14 @@
             <class name="com.webShop.tests.LoginTest">
                 <methods>
                     <include name=".*Negative.*">
+                        <exclude name=".*Positive.*"/>
                     </include>
                 </methods>
             </class>
             <class name="com.webShop.tests.RegistrationTest">
                 <methods>
                     <include name=".*Negative.*">
+                        <exclude name=".*Positive.*"/>
                     </include>
                 </methods>
             </class>
