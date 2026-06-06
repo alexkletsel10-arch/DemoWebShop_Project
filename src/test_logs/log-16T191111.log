@@ -1,0 +1,30 @@
+19:11:11.731 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:11:14.930 [main] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestPasswordInvalidValues[dominnni@gm.com, Hatsby@]
+19:11:14.944 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:11:14.954 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:11:15.282 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:11:15.283 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:11:15.283 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnni@gm.com
+19:11:15.863 [main] INFO  com.webShop.tests.TestBase -- PASSEDloginFormNegativeTestPasswordInvalidValues
+19:11:15.863 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:11:15.863 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:11:19.489 [main] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestPasswordInvalidValues[schmidt@gmail.com, schnide2kkwodkoskdoslkdokoowddkowkdwo]
+19:11:19.491 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:11:19.498 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:11:19.783 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:11:19.784 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:11:19.784 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsschmidt@gmail.com
+19:11:20.806 [main] INFO  com.webShop.tests.TestBase -- PASSEDloginFormNegativeTestPasswordInvalidValues
+19:11:20.806 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:11:20.806 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:11:23.351 [main] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestPasswordInvalidValues[send12@gmail.com, sindel10045h]
+19:11:23.355 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:11:23.361 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:11:23.654 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:11:23.655 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:11:23.655 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldssend12@gmail.com
+19:11:24.466 [main] INFO  com.webShop.tests.TestBase -- PASSEDloginFormNegativeTestPasswordInvalidValues
+19:11:24.466 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:11:24.466 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

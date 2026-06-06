@@ -2,6 +2,7 @@ package com.webShop.tests;
 
 import com.webShop.pages.HomePage;
 import com.webShop.pages.registrationlogin.LoginPage;
+import org.openqa.selenium.support.FindBy;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import utils.DataProviders;
@@ -18,7 +19,7 @@ public class LoginTest extends TestBase {
     }
 
     @Test(dataProvider = "LoginCsv", dataProviderClass = DataProviders.class)
-    public  void LoginFormPositiveTest(String loginEmail, String loginPassword) {
+    public  void loginFormPositiveTest(String loginEmail, String loginPassword) {
         new HomePage(driver)
                 .selectLoginLink();
         new LoginPage(driver)
@@ -26,11 +27,10 @@ public class LoginTest extends TestBase {
                 .clickOnLoginButton()
                 .verifyLogOutLinkIsPresent();
 
-
     }
 
     @Test(dataProvider = "LoginCsv", dataProviderClass = DataProviders.class)
-    public void LoginFormPositiveTestWithCheckBox(String loginEmail, String loginPassword) {
+    public void loginFormPositiveTestWithCheckBox(String loginEmail, String loginPassword) {
         new HomePage(driver)
                 .selectLoginLink();
         new LoginPage(driver)
@@ -39,11 +39,10 @@ public class LoginTest extends TestBase {
                 .clickOnLoginButton()
                 .verifyLogOutLinkIsPresent();
 
-
     }
 
     @Test(dataProvider = "loginCsvInvalidValues", dataProviderClass = DataProviders.class)
-    public void LoginFormNegativeTestInvalidValues(String loginEmail, String loginPassword) {
+    public void loginFormNegativeTestPasswordInvalidValues(String loginEmail, String loginPassword) {
         new HomePage(driver)
                 .selectLoginLink();
         new LoginPage(driver)
@@ -52,7 +51,41 @@ public class LoginTest extends TestBase {
                 .clickOnLoginButtonError().
                  verifyErrorMessageIsPresent("Login was unsuccessful. Please correct the errors and try again.");
 
+    }
+    @Test(dataProvider = "loginPageCsvEmptyPasswordField", dataProviderClass = DataProviders.class)
+    public void loginFormNegativeTestEmptyPasswordField(String loginEmail, String loginPassword) {
+        new HomePage(driver)
+                .selectLoginLink();
+        new LoginPage(driver)
+                .fillLoginFields(loginEmail,loginPassword)
+                .markCheckBox()
+                .clickOnLoginButtonError()
+                .verifyErrorMessageIsPresent("Login was unsuccessful. Please correct the errors and try again.");
+    }
+    @Test(dataProvider = "loginPageCsvInvalidEmailField", dataProviderClass = DataProviders.class)
+    public void loginFormNegativeTestInvalidEmailField(String loginEmail, String loginPassword) {
+        new HomePage(driver)
+                .selectLoginLink();
+        new LoginPage(driver)
+                .fillLoginFields(loginEmail,loginPassword)
+                .markCheckBox()
+                .clickOnLoginButtonError()
+                .verifyErrorMessageIsPresentEmailField("Please enter a valid email address.");
+    }
+    @Test(dataProvider = "loginPageCsvEmptyEmailField", dataProviderClass = DataProviders.class)
+    public void loginFormNegativeTestEmptyEmailField(String loginEmail, String loginPassword) {
+        new HomePage(driver)
+                .selectLoginLink();
+        new LoginPage(driver)
+                .fillLoginFields(loginEmail,loginPassword)
+                .markCheckBox()
+                .clickOnLoginButtonError()
+                .verifyErrorMessageIsPresent("Login was unsuccessful. Please correct the errors and try again.");
+    }
 
     }
 
-}
+
+
+
+

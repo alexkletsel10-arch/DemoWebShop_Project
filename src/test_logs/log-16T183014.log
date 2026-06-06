@@ -1,0 +1,9 @@
+18:30:14.866 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+18:30:17.755 [main] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestInvalidEmailField[dominnnigm.com, Hatsby@2]
+18:30:17.772 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:30:17.786 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:30:18.140 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:30:18.140 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:30:18.141 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnnigm.com

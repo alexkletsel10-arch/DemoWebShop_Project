@@ -112,10 +112,13 @@ public class ShoppingCartPage extends BasePage {
         return this;
     }
 
-    @FindBy(id = "StateProvinceId")
+    @FindBy(css = ".inputs select#StateProvinceId")
     WebElement StateProvinceId1;
 
+
     public ShoppingCartPage selectProvince(String state) {
+        wait.until(ExpectedConditions.visibilityOf(StateProvinceId1));
+
         Select select = new Select(StateProvinceId1);
         select.selectByVisibleText(state);
         return this;

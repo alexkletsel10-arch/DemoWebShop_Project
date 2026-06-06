@@ -1,0 +1,27 @@
+19:04:45.832 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:04:48.297 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationEmptyEmailField[dominic, gatsby, , Hatsby@2, Hatsby@2]
+19:04:48.318 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:04:48.329 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:04:48.709 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:04:48.710 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:04:49.072 [main] INFO  com.webShop.tests.TestBase -- PASSEDregistrationEmptyEmailField
+19:04:49.073 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:04:49.073 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:04:51.831 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationEmptyEmailField[paul, schnider, , schnideR@3, schnideR@3]
+19:04:51.834 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:04:51.858 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:04:52.254 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:04:52.255 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:04:52.629 [main] INFO  com.webShop.tests.TestBase -- PASSEDregistrationEmptyEmailField
+19:04:52.629 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:04:52.629 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:04:55.455 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationEmptyEmailField[sendy, sindel, , sindel#R10046h, sindel#R10046h]
+19:04:55.457 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:04:55.465 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:04:55.910 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:04:55.910 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:04:56.267 [main] INFO  com.webShop.tests.TestBase -- PASSEDregistrationEmptyEmailField
+19:04:56.267 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:04:56.267 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

@@ -1,0 +1,13 @@
+18:03:44.683 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+18:03:47.510 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationPasswordInvalidField[dominic, gatsby, dominnee@gm.com, Hatsby2, Hatsby2]
+18:03:47.519 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:03:47.527 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:03:47.855 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:03:47.856 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:03:48.719 [main] INFO  com.webShop.tests.TestBase -- PASSEDregistrationPasswordInvalidField
+18:03:48.720 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:03:48.720 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+18:03:50.796 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationPasswordInvalidField[paul, schnider, schmidteh@gmail.com, schnideR@3, schnideR@3]
+18:03:50.797 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser

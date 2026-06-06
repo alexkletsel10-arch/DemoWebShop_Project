@@ -77,4 +77,16 @@ public class LoginPage extends BasePage {
         type(passwordField ,password);
         return this;
     }
+    @FindBy(xpath ="//span[text()='Please enter a valid email address.']")
+    WebElement emailFieldError;
+    public LoginPage verifyErrorMessageIsPresentEmailField(String text) {
+        Assert.assertTrue(shouldHaveText(emailFieldError,text,5));
+        return this;
+    }
+    public HomePage login(String email, String password) {
+
+        fillInLoginFields(email, password);
+        clickOnLoginButton();
+        return new HomePage(driver);
+    }
 }

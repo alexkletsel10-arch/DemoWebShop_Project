@@ -17,7 +17,7 @@ public class DataProviders {
         List<Object[]> list = new ArrayList<>();
 
         BufferedReader reader = new BufferedReader(
-                new FileReader(new File("src/test/resources/DemoWeb.csv"))
+                new FileReader(new File("src/test/resources/DemoWebRegistrationValidValues.csv"))
         );
 
         String line = reader.readLine();
@@ -58,7 +58,7 @@ public class DataProviders {
         List<Object[]> list = new ArrayList<>();
 
         BufferedReader reader = new BufferedReader(
-                new FileReader(new File("src/test/resources/loginPageCsvInvalidValues.csv"))
+                new FileReader(new File("src/test/resources/loginPageCsvInvalidPasswordValues.csv"))
         );
 
         String line = reader.readLine();
@@ -73,6 +73,148 @@ public class DataProviders {
         reader.close();
         return list.iterator();
     }
+    @DataProvider(name = "loginPageCsvEmptyPasswordField")
+    public Iterator<Object[]>loginPageCsvEmptyPasswordField() throws IOException {
+        List<Object[]> list = new ArrayList<>();
+
+        BufferedReader reader = new BufferedReader(
+                new FileReader(new File("src/test/resources/loginPageCsvEmptyPasswordField.csv"))
+        );
+
+        String line = reader.readLine();
+        while (line != null) {
+
+            String[] split = line.split(",", -1);
+
+            list.add(new Object[]{split[0],split[1]}); // email, password
+
+            line = reader.readLine();
+        }
+        reader.close();
+        return list.iterator();
+    }
+    @DataProvider(name = "loginPageCsvInvalidEmailField")
+    public Iterator<Object[]>loginPageCsvInvalidEmailField() throws IOException {
+        List<Object[]> list = new ArrayList<>();
+
+        BufferedReader reader = new BufferedReader(
+                new FileReader(new File("src/test/resources/loginPageCsvInvalidEmailField.csv"))
+        );
+
+        String line = reader.readLine();
+        while (line != null) {
+
+            String[] split = line.split(",");
+
+            list.add(new Object[]{split[0],split[1]}); // email, password
+
+            line = reader.readLine();
+        }
+        reader.close();
+        return list.iterator();
+    }
+    @DataProvider(name = "loginPageCsvEmptyEmailField")
+    public Iterator<Object[]>loginPageCsvEmptyEmailField() throws IOException {
+        List<Object[]> list = new ArrayList<>();
+
+        BufferedReader reader = new BufferedReader(
+                new FileReader(new File("src/test/resources/loginPageCsvEmptyEmailField.csv"))
+        );
+
+        String line = reader.readLine();
+        while (line != null) {
+
+            String[] split = line.split(",", -1);
+
+            list.add(new Object[]{split[0],split[1]}); // email, password
+
+            line = reader.readLine();
+        }
+        reader.close();
+        return list.iterator();
+    }
+    @DataProvider(name = "regInvalidEmailValues")
+    public Iterator<Object[]>registrationInvalidEmailFieldValues() throws IOException {
+        List<Object[]> list = new ArrayList<>();
+
+        BufferedReader reader = new BufferedReader(
+                new FileReader(new File("src/test/resources/registrationInvalidEmailFieldValues.csv"))
+        );
+
+        String line = reader.readLine();
+        while (line != null) {
+
+            String[] split = line.split(",");
+
+            list.add(new Object[]{split[0],split[1],split[2],split[3],split[4]}); // email, password
+
+            line = reader.readLine();
+        }
+        reader.close();
+        return list.iterator();
+    }
+    @DataProvider(name = "regInvalidPasswordValues")
+    public Iterator<Object[]>regInvalidPasswordValues() throws IOException {
+        List<Object[]> list = new ArrayList<>();
+
+        BufferedReader reader = new BufferedReader(
+                new FileReader(new File("src/test/resources/registrationInvalidPasswordFieldValues.csv"))
+        );
+
+        String line = reader.readLine();
+        while (line != null) {
+
+            String[] split = line.split(",");
+
+            list.add(new Object[]{split[0],split[1],split[2],split[3],split[4]}); // email, password
+
+            line = reader.readLine();
+        }
+        reader.close();
+        return list.iterator();
+    }
+    @DataProvider(name = "regEmptyEmailField")
+    public Iterator<Object[]>regEmptyEmailField() throws IOException {
+        List<Object[]> list = new ArrayList<>();
+
+        BufferedReader reader = new BufferedReader(
+                new FileReader(new File("src/test/resources/regEmptyEmailField.csv"))
+        );
+
+        String line = reader.readLine();
+        while (line != null) {
+
+            String[] split = line.split(",",-1);
+
+            list.add(new Object[]{split[0],split[1],split[2],split[3],split[4]}); // email, password
+
+            line = reader.readLine();
+        }
+        reader.close();
+        return list.iterator();
+    }
+    @DataProvider(name = "regEmptyPasswordField")
+    public Iterator<Object[]>regEmptyPasswordField() throws IOException {
+        List<Object[]> list = new ArrayList<>();
+
+        BufferedReader reader = new BufferedReader(
+                new FileReader(new File("src/test/resources/regEmptyPasswordField.csv"))
+        );
+
+        String line = reader.readLine();
+        while (line != null) {
+
+            String[] split = line.split(",",-1);
+
+            list.add(new Object[]{split[0],split[1],split[2],split[3],split[4]}); // email, password
+
+            line = reader.readLine();
+        }
+        reader.close();
+        return list.iterator();
+    }
+
+
 
 
 }

@@ -1,0 +1,30 @@
+19:03:03.307 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:03:07.137 [main] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestPasswordInvalidValues[dominnnigm.com, Hatsby@2]
+19:03:07.149 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:07.162 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:07.809 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:07.809 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:07.809 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnnigm.com
+19:03:13.397 [main] ERROR com.webShop.tests.TestBase -- FAILEDloginFormNegativeTestPasswordInvalidValuesScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1778947393392.png
+19:03:13.398 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:03:13.398 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:03:16.128 [main] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestPasswordInvalidValues[schmidt@gmail., schnideR@3]
+19:03:16.132 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:16.142 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:16.454 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:16.455 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:16.455 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsschmidt@gmail.
+19:03:21.954 [main] ERROR com.webShop.tests.TestBase -- FAILEDloginFormNegativeTestPasswordInvalidValuesScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1778947401953.png
+19:03:21.954 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:03:21.954 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:03:24.762 [main] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestPasswordInvalidValues[send12@.com, sindel#R10046h]
+19:03:24.764 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:24.771 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:25.095 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:25.096 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:25.096 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldssend12@.com
+19:03:30.544 [main] ERROR com.webShop.tests.TestBase -- FAILEDloginFormNegativeTestPasswordInvalidValuesScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1778947410544.png
+19:03:30.544 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:03:30.544 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

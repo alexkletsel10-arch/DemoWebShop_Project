@@ -63,12 +63,11 @@ public class BooksPage extends BasePage {
 
     }
 
-    @FindBy(css = ".close")
+    @FindBy(css = "[title='Close']")
     WebElement closeNotification;
 
     public BooksPage closeNitificationSuccess() {
-        click(closeNotification);
-
+        wait.until(ExpectedConditions.elementToBeClickable(closeNotification)).click();
         return this;
     }
 

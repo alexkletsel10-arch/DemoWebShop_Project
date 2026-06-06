@@ -1,0 +1,21 @@
+18:28:54.466 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+18:28:56.984 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationInvalidEmailFieldValues[dominic, gatsby, dominneegm.com, Hatsby@2, Hatsby@2]
+18:28:56.999 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:28:57.011 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:28:57.334 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:28:57.334 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:28:57.442 [main] ERROR com.webShop.tests.TestBase -- FAILEDregistrationInvalidEmailFieldValuesScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1779463737440.png
+18:28:57.442 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:28:57.442 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+18:28:59.989 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationInvalidEmailFieldValues[paul, schnider, schmidteh@.com, schnideR@3, schnideR@3]
+18:28:59.990 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:00.000 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:00.348 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:00.349 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:00.503 [main] ERROR com.webShop.tests.TestBase -- FAILEDregistrationInvalidEmailFieldValuesScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1779463740502.png
+18:29:00.503 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:29:00.503 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+18:29:02.216 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationInvalidEmailFieldValues[sendy, sindel, sendi13@gmail., sindel#R10046h, sindel#R10046h]
+18:29:02.218 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser

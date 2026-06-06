@@ -1,0 +1,27 @@
+17:55:59.712 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+17:56:02.283 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationPasswordInvalidField[dominic, gatsby, dominnee@gm.com, Hatsby2, Hatsby2]
+17:56:02.295 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:56:02.304 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:56:02.616 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:56:02.617 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:56:03.601 [main] ERROR com.webShop.tests.TestBase -- FAILEDregistrationPasswordInvalidFieldScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1779461763599.png
+17:56:03.601 [main] INFO  com.webShop.tests.TestBase -- Stop test
+17:56:03.601 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+17:56:05.608 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationPasswordInvalidField[paul, schnider, schmidteh@gmail.com, schnideR@3, schnideR@3]
+17:56:05.611 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:56:05.640 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:56:05.946 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:56:05.946 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:56:06.848 [main] ERROR com.webShop.tests.TestBase -- FAILEDregistrationPasswordInvalidFieldScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1779461766848.png
+17:56:06.848 [main] INFO  com.webShop.tests.TestBase -- Stop test
+17:56:06.848 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+17:56:09.165 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationPasswordInvalidField[sendy, sindel, sendi13@gmail.com, sindel#R10046h, sindel#R10046h]
+17:56:09.167 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:56:09.177 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:56:09.491 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:56:09.491 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+17:56:10.395 [main] ERROR com.webShop.tests.TestBase -- FAILEDregistrationPasswordInvalidFieldScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1779461770395.png
+17:56:10.395 [main] INFO  com.webShop.tests.TestBase -- Stop test
+17:56:10.395 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

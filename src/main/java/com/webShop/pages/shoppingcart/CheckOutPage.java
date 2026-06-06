@@ -43,7 +43,7 @@ public class CheckOutPage extends BasePage {
     WebElement checkout;
 
     public CheckOutPage clickOnContinueButtonUnderAddress() {
-        click(checkout);
+        wait.until(ExpectedConditions.elementToBeClickable(checkout)).click();
         return this;
     }
 
@@ -51,7 +51,7 @@ public class CheckOutPage extends BasePage {
     WebElement continueAddressButton;
 
     public CheckOutPage selectContinueAtShippingAddress() {
-        click(continueAddressButton);
+        wait.until(ExpectedConditions.elementToBeClickable(continueAddressButton)).click();
         return this;
     }
 
@@ -61,7 +61,7 @@ public class CheckOutPage extends BasePage {
     WebElement shipping;
 
     public CheckOutPage selectShippingOption1() {
-        click(shipping);
+        wait.until(ExpectedConditions.elementToBeClickable(shipping)).click();
         click(continueShipping);
 
         return this;
@@ -73,7 +73,7 @@ public class CheckOutPage extends BasePage {
     WebElement paymentMethod;
 
     public CheckOutPage selectPaymentMethodCreditCard() {
-        click(paymentMethod);
+        wait.until(ExpectedConditions.elementToBeClickable(paymentMethod)).click();
         click(paymentContinue);
         return this;
     }
@@ -117,7 +117,7 @@ public class CheckOutPage extends BasePage {
     WebElement confirmButton;
 
     public CheckOutPage clickOnConfirmButton() {
-        click(confirmButton);
+        wait.until(ExpectedConditions.elementToBeClickable(confirmButton)).click();
 
         return this;
     }

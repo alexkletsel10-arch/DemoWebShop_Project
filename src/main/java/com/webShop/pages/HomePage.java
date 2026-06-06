@@ -122,7 +122,7 @@ public class HomePage extends BasePage {
 
     }
 
-    @FindBy(css = "ul.top-menu a[href='/electronics']")
+    @FindBy(css = "[href='/electronics']")
     WebElement smartPhone;
 
     public ElectronicsPage selectElectronics() {

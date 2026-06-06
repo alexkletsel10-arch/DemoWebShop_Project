@@ -2,6 +2,7 @@ package com.webShop.pages.registrationlogin;
 
 import com.webShop.pages.BasePage;
 import com.webShop.pages.HomePage;
+import org.checkerframework.checker.units.qual.A;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -71,4 +72,31 @@ public class RegistrationPage extends BasePage {
 
         return this;
     }
-}
+    @FindBy(css = ".field-validation-error span[for='Password']")
+    WebElement errorMessgePassword;
+    public RegistrationPage verifyPasswordFieldErrorMessage() {
+        Assert.assertTrue(isElementDisplayed(errorMassage));
+        return this;
+    }
+    @FindBy(css = ".field-validation-error span[for='Email']")
+    WebElement regEmailFieldError;
+    public RegistrationPage verifyEmaiFieldErrorMessage() {
+        Assert.assertTrue(isElementDisplayed(regEmailFieldError));
+        return this;
+
+    }
+    @FindBy(css = ".field-validation-error span[for='Email']")
+    WebElement emptyField;
+    public RegistrationPage verifyEmptyEmailFieldErrorMessage() {
+        Assert.assertTrue(isElementDisplayed(emptyField));
+        return this;
+    }
+    @FindBy(css = ".field-validation-error span[for='Password']")
+    WebElement emptyPasswordFieldReg;
+    public RegistrationPage verifyEmptyPasswordFieldErrorMessage() {
+        Assert.assertTrue(isElementDisplayed(emptyPasswordFieldReg));
+        return this;
+        }
+    }
+
+

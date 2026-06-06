@@ -1,0 +1,30 @@
+19:34:20.757 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:34:24.831 [main] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestEmptyEmailField[, Hatsby@2]
+19:34:24.844 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:34:24.856 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:34:25.209 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:34:25.209 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:34:25.210 [main] INFO  com.webShop.pages.BasePage -- fill in login fields
+19:34:30.990 [main] ERROR com.webShop.tests.TestBase -- FAILEDloginFormNegativeTestEmptyEmailFieldScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1778949270984.png
+19:34:30.990 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:34:30.990 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:34:33.928 [main] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestEmptyEmailField[, schnideR@3]
+19:34:33.930 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:34:33.940 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:34:34.269 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:34:34.269 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:34:34.269 [main] INFO  com.webShop.pages.BasePage -- fill in login fields
+19:34:39.978 [main] ERROR com.webShop.tests.TestBase -- FAILEDloginFormNegativeTestEmptyEmailFieldScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1778949279977.png
+19:34:39.979 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:34:39.979 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:34:42.550 [main] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestEmptyEmailField[, sindel#R10046h]
+19:34:42.552 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:34:42.560 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:34:42.931 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:34:42.931 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:34:42.931 [main] INFO  com.webShop.pages.BasePage -- fill in login fields
+19:34:48.617 [main] ERROR com.webShop.tests.TestBase -- FAILEDloginFormNegativeTestEmptyEmailFieldScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1778949288617.png
+19:34:48.617 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:34:48.617 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

@@ -1,0 +1,27 @@
+19:49:01.009 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:49:05.353 [main] INFO  com.webShop.tests.TestBase -- Start testfillInRegistrationFormNegativeTestAlreadyExistingAccount[dominic, gatsby, dominnee@gm.com, Hatsby@2, Hatsby@2]
+19:49:05.390 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:49:05.417 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:49:05.788 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:49:05.789 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:49:08.514 [main] INFO  com.webShop.tests.TestBase -- PASSEDfillInRegistrationFormNegativeTestAlreadyExistingAccount
+19:49:08.515 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:49:08.515 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:49:13.868 [main] INFO  com.webShop.tests.TestBase -- Start testfillInRegistrationFormNegativeTestAlreadyExistingAccount[paul, schnider, schmidteh@gmail.com, schnideR@3, schnideR@3]
+19:49:13.870 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:49:13.884 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:49:14.227 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:49:14.227 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:49:15.859 [main] INFO  com.webShop.tests.TestBase -- PASSEDfillInRegistrationFormNegativeTestAlreadyExistingAccount
+19:49:15.859 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:49:15.859 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+19:49:19.039 [main] INFO  com.webShop.tests.TestBase -- Start testfillInRegistrationFormNegativeTestAlreadyExistingAccount[sendy, sindel, sendi13@gmail.com, sindel#R10046h, sindel#R10046h]
+19:49:19.041 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:49:19.050 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:49:19.362 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:49:19.362 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:49:20.673 [main] INFO  com.webShop.tests.TestBase -- PASSEDfillInRegistrationFormNegativeTestAlreadyExistingAccount
+19:49:20.673 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:49:20.673 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

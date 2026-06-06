@@ -1,0 +1,20 @@
+20:25:41.663 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+20:25:44.429 [main] INFO  com.webShop.tests.TestBase -- Start testmakeCameraPurchase[]
+20:25:44.438 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:25:44.447 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:25:44.760 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:25:44.761 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:25:44.761 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+20:25:44.934 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:25:44.935 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:25:44.938 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:25:46.010 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:25:46.010 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:25:46.577 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:25:48.408 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:25:48.513 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:25:53.782 [main] INFO  com.webShop.tests.TestBase -- PASSEDmakeCameraPurchase
+20:25:53.783 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:25:53.783 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

@@ -2,6 +2,7 @@ package com.webShop.tests;
 
 import com.webShop.pages.HomePage;
 import com.webShop.pages.registrationlogin.LoginPage;
+import data.TestData;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -32,7 +33,18 @@ public class TestBase {
         driver.manage().window().maximize();
 
     }
+    public void loginAsRegisteredUser() {
+        HomePage homePage = new HomePage(driver);
 
+        if (!homePage.isLoginLinkPresent()) {
+            homePage.clickOnLogOutLinkIfPresent();
+        }
+
+        homePage.selectLoginLink();
+
+        new LoginPage(driver)
+                .login(TestData.EMAIL, TestData.PASSWORD);
+    }
 
     @BeforeMethod
     public void startTest(Method method, Object[]p){
@@ -64,7 +76,7 @@ public String takeScreenShot() {
     return screenshot.getAbsolutePath();
 
  }
-    @AfterMethod()
+    @AfterMethod(enabled = false)
     public void stop(){
         driver.quit();
 

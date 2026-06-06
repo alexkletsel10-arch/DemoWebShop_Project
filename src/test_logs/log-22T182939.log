@@ -1,0 +1,27 @@
+18:29:39.227 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+18:29:42.963 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationInvalidEmailFieldValues[dominic, gatsby, dominneegm.com, Hatsby@2, Hatsby@2]
+18:29:42.973 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:42.980 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:43.291 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:43.291 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:43.653 [main] INFO  com.webShop.tests.TestBase -- PASSEDregistrationInvalidEmailFieldValues
+18:29:43.653 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:29:43.653 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+18:29:46.278 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationInvalidEmailFieldValues[paul, schnider, schmidteh@.com, schnideR@3, schnideR@3]
+18:29:46.285 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:46.298 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:46.617 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:46.618 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:46.984 [main] INFO  com.webShop.tests.TestBase -- PASSEDregistrationInvalidEmailFieldValues
+18:29:46.985 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:29:46.985 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+18:29:50.099 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationInvalidEmailFieldValues[sendy, sindel, sendi13@gmail., sindel#R10046h, sindel#R10046h]
+18:29:50.100 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:50.107 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:50.398 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:50.398 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:29:50.742 [main] INFO  com.webShop.tests.TestBase -- PASSEDregistrationInvalidEmailFieldValues
+18:29:50.742 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:29:50.742 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

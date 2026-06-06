@@ -1,0 +1,10 @@
+18:04:14.174 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+18:04:16.572 [main] INFO  com.webShop.tests.TestBase -- Start testaddBookToTheCart[]
+18:04:16.588 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:04:17.129 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:04:17.131 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:04:18.849 [main] ERROR com.webShop.tests.TestBase -- FAILEDaddBookToTheCartScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1780671858847.png
+18:04:18.849 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:04:18.849 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

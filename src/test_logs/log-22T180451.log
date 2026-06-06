@@ -1,0 +1,27 @@
+18:04:51.645 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+18:04:54.565 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationPasswordInvalidField[dominic, gatsby, dominnee@gm.com, Hat, Hat]
+18:04:54.576 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:04:54.584 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:04:54.907 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:04:54.908 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:04:55.261 [main] INFO  com.webShop.tests.TestBase -- PASSEDregistrationPasswordInvalidField
+18:04:55.261 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:04:55.261 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+18:04:57.650 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationPasswordInvalidField[paul, schnider, schmidteh@gmail.com, sch, sch]
+18:04:57.652 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:04:57.665 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:04:58.000 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:04:58.000 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:04:58.327 [main] INFO  com.webShop.tests.TestBase -- PASSEDregistrationPasswordInvalidField
+18:04:58.327 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:04:58.327 [main] INFO  com.webShop.tests.TestBase -- ********************************************************
+18:05:00.730 [main] INFO  com.webShop.tests.TestBase -- Start testregistrationPasswordInvalidField[sendy, sindel, sendi13@gmail.com, sin, sin]
+18:05:00.731 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:05:00.738 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:05:01.052 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:05:01.052 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:05:01.383 [main] INFO  com.webShop.tests.TestBase -- PASSEDregistrationPasswordInvalidField
+18:05:01.383 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:05:01.383 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

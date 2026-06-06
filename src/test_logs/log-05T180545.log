@@ -1,0 +1,14 @@
+18:05:45.936 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+18:05:49.009 [main] INFO  com.webShop.tests.TestBase -- Start testmakeCameraPurchase[]
+18:05:49.023 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:05:49.032 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:05:50.077 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:05:50.077 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:05:51.137 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:05:53.241 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:05:53.737 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+18:06:04.220 [main] ERROR com.webShop.tests.TestBase -- FAILEDmakeCameraPurchaseScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1780671964218.png
+18:06:04.221 [main] INFO  com.webShop.tests.TestBase -- Stop test
+18:06:04.221 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

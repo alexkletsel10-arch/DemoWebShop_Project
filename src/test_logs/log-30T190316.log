@@ -1,0 +1,11 @@
+19:03:16.165 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:03:19.112 [main] INFO  com.webShop.tests.TestBase -- Start testmakeCameraPurchase[]
+19:03:19.168 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:19.183 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:19.637 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:19.637 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:20.076 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:21.754 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:03:22.236 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
