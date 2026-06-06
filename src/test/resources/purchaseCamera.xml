@@ -1,10 +1,11 @@
 <suite name="Purchase" verbose="1">
-    <test name="Smoky1">
+    <test name="Purchase">
         <classes>
-            <class name="com.webShop.tests.BuyCameraTestAddQuantity"/>
-            <methods>
-                <exclude name=".*makeCameraPurchaseWithNewBillingAddress.*"></exclude>
-            </methods>
+            <class name="com.webShop.tests.BuyCameraTestAddQuantity">
+                <methods>
+                    <include name="makeCameraPurchaseWithNewBillingAddress"/>
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>
