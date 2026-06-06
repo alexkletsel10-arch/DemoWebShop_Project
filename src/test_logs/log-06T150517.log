@@ -1,0 +1,17 @@
+15:05:17.799 [Test worker] WARN  org.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [/Users/alenkletsel/Projects_Automation/DemoWebshopPom/src/test/resources/purchaseCamera.xml] otherwise TestNG may fail or not work as expected.
+15:05:20.413 [Test worker] INFO  com.webShop.tests.TestBase -- Start testmakeCameraPurchaseWithExistingAddress[]
+15:05:20.425 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:05:20.756 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:05:20.757 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:05:20.757 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+15:05:20.908 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:05:20.909 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:05:20.910 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:05:21.900 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:05:21.901 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:05:22.462 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:05:24.244 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:05:25.275 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:05:29.643 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDmakeCameraPurchaseWithExistingAddress
+15:05:29.643 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+15:05:29.643 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************

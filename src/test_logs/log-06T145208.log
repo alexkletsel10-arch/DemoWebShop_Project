@@ -1,0 +1,128 @@
+14:52:12.788 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:52:13.768 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:52:13.768 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:54:17.676 [Test worker] INFO  com.webShop.tests.TestBase -- Start testaddBookToTheCart[]
+14:54:17.679 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:18.229 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:18.230 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:20.662 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:20.684 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDaddBookToTheCart
+14:54:20.684 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:54:20.684 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:54:24.292 [Test worker] INFO  com.webShop.tests.TestBase -- Start testaddGiftCardToCart[]
+14:54:24.296 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:24.940 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:24.942 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:27.382 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:27.398 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDaddGiftCardToCart
+14:54:27.398 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:54:27.398 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:54:29.877 [Test worker] INFO  com.webShop.tests.TestBase -- Start testmakeCameraPurchaseWithExistingAddress[]
+14:54:29.878 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:30.179 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:30.180 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:30.180 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+14:54:30.339 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:30.339 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:30.340 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:31.775 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:31.775 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:33.102 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:35.169 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:37.249 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:41.595 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDmakeCameraPurchaseWithExistingAddress
+14:54:41.596 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:54:41.596 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:54:45.219 [Test worker] INFO  com.webShop.tests.TestBase -- Start testmakeCameraPurchaseWithNewBillingAddress[]
+14:54:45.222 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:45.506 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:45.507 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:45.507 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+14:54:45.652 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:45.653 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:45.656 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:46.511 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:46.511 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:46.965 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:48.651 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:54:49.606 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:00.228 [Test worker] ERROR com.webShop.tests.TestBase -- FAILEDmakeCameraPurchaseWithNewBillingAddressScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1780746900223.png
+14:55:00.229 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:55:00.230 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:55:02.678 [Test worker] INFO  com.webShop.tests.TestBase -- Start testcheckThatCertainBookIsPresent[]
+14:55:02.680 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:03.217 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:03.219 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:03.256 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDcheckThatCertainBookIsPresent
+14:55:03.256 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:55:03.257 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:55:05.780 [Test worker] INFO  com.webShop.tests.TestBase -- Start testfindOutAmountOfItemsOnPage[]
+14:55:05.783 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:06.327 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:06.328 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:06.337 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDfindOutAmountOfItemsOnPage
+14:55:06.337 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:55:06.337 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:55:10.371 [Test worker] INFO  com.webShop.tests.TestBase -- Start testanswerTheCommunityPollSurvey[]
+14:55:10.373 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:10.678 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:10.678 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fieldsschmidth@gmail.com
+14:55:11.327 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:11.330 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:12.463 [Test worker] ERROR com.webShop.tests.TestBase -- FAILEDanswerTheCommunityPollSurveyScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1780746912462.png
+14:55:12.464 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:55:12.464 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:55:15.600 [Test worker] INFO  com.webShop.tests.TestBase -- Start testdeleteItemFromCart[]
+14:55:15.601 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:16.193 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:20.541 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:20.542 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:21.070 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDdeleteItemFromCart
+14:55:21.070 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:55:21.070 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:55:24.144 [Test worker] INFO  com.webShop.tests.TestBase -- Start testremoveProduct[]
+14:55:24.146 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:24.749 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:31.043 [Test worker] INFO  com.webShop.tests.TestBase -- Start testdeletePhoneFrom[]
+14:55:31.044 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:31.454 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:31.455 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:32.347 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:32.347 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:32.478 [Test worker] ERROR com.webShop.tests.TestBase -- FAILEDdeletePhoneFromScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1780746932478.png
+14:55:32.479 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:55:32.479 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:55:34.871 [Test worker] INFO  com.webShop.tests.TestBase -- Start testsearchForNonExistingItem[]
+14:55:34.874 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:35.353 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:35.353 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:35.998 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDsearchForNonExistingItem
+14:55:35.998 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:55:35.998 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:55:38.205 [Test worker] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestEmptyEmailField[, Hatsby@2]
+14:55:38.209 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:38.220 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:38.525 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:38.525 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:38.525 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fields
+14:55:39.005 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDloginFormNegativeTestEmptyEmailField
+14:55:39.005 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:55:39.005 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:55:41.127 [Test worker] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestEmptyEmailField[, schnideR@3]
+14:55:41.130 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:41.139 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:41.427 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:41.427 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:41.427 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fields
+14:55:42.124 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDloginFormNegativeTestEmptyEmailField
+14:55:42.124 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:55:42.124 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************
+14:55:44.615 [Test worker] INFO  com.webShop.tests.TestBase -- Start testloginFormNegativeTestEmptyEmailField[, sindel#R10046h]
+14:55:44.619 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:44.629 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:44.942 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:44.942 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:55:44.943 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fields
+14:55:45.373 [Test worker] INFO  com.webShop.tests.TestBase -- PASSEDloginFormNegativeTestEmptyEmailField
+14:55:45.374 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+14:55:45.374 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************

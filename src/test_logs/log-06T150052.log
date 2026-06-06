@@ -1,0 +1,17 @@
+15:00:52.291 [Test worker] WARN  org.testng.xml.TestNGContentHandler -- It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [/Users/alenkletsel/Projects_Automation/DemoWebshopPom/src/test/resources/purchaseCamera.xml] otherwise TestNG may fail or not work as expected.
+15:00:55.172 [Test worker] INFO  com.webShop.tests.TestBase -- Start testmakeCameraPurchaseWithNewBillingAddress[]
+15:00:55.181 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:00:55.615 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:00:55.616 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:00:55.616 [Test worker] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+15:00:55.768 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:00:55.768 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:00:55.769 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:00:56.856 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:00:56.857 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:00:57.473 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:00:59.173 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:01:00.120 [Test worker] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:01:10.702 [Test worker] ERROR com.webShop.tests.TestBase -- FAILEDmakeCameraPurchaseWithNewBillingAddressScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1780747270700.png
+15:01:10.702 [Test worker] INFO  com.webShop.tests.TestBase -- Stop test
+15:01:10.702 [Test worker] INFO  com.webShop.tests.TestBase -- ********************************************************

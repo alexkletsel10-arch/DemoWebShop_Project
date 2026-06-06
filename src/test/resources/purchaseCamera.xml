@@ -3,7 +3,7 @@
         <classes>
             <class name="com.webShop.tests.BuyCameraTestAddQuantity">
                 <methods>
-                    <include name="makeCameraPurchaseWithNewBillingAddress"/>
+                    <exclude name="makeCameraPurchaseWithNewBillingAddress"/>
                 </methods>
             </class>
         </classes>

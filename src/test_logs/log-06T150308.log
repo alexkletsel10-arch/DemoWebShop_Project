@@ -1,0 +1,19 @@
+15:03:08.907 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+15:03:11.642 [main] INFO  com.webShop.tests.TestBase -- Start testmakeCameraPurchaseWithExistingAddress[]
+15:03:11.653 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:03:11.984 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:03:11.984 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:03:11.985 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+15:03:12.598 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:03:12.601 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:03:12.603 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:03:13.048 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:03:13.048 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:03:13.628 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:03:15.473 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:03:16.425 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+15:03:20.827 [main] INFO  com.webShop.tests.TestBase -- PASSEDmakeCameraPurchaseWithExistingAddress
+15:03:20.827 [main] INFO  com.webShop.tests.TestBase -- Stop test
+15:03:20.827 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

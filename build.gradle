@@ -27,21 +27,26 @@ task qa1(type:Test) {
             suites 'src/test/resources/loginRegistrationNegativeTests.xml'
         } else if (suite3) {
             suites 'src/test/resources/negative.xml'
-        }else if (suite4){
+        } else if (suite4) {
             'src/test/resources/purchaseCamera.xml'
         }
     }
     if (project.hasProperty('browser')) {
         systemProperty 'browser', "${browser}"
     }
-
-
-    test {
-        useTestNG()
-    }
     task qa2(type: Test) {
         useTestNG() {
             suites 'src/test/resources/loginRegistrationNegativeTests.xml'
+        }
+        task qa3(type: Test) {
+            useTestNG() {
+                suites 'src/test/resources/purchaseCamera.xml'
+            }
+
+            test {
+                useTestNG()
+            }
+
         }
     }
 }
