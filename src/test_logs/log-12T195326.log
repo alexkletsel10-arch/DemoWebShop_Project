@@ -1,0 +1,11 @@
+19:53:26.779 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+19:53:29.520 [main] INFO  com.webShop.tests.TestBase -- Start testdeleteItemFromCart[]
+19:53:29.532 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:30.094 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:34.396 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:34.398 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+19:53:34.930 [main] INFO  com.webShop.tests.TestBase -- PASSEDdeleteItemFromCart
+19:53:34.930 [main] INFO  com.webShop.tests.TestBase -- Stop test
+19:53:34.930 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

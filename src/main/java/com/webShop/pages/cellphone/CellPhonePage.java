@@ -6,6 +6,7 @@ import com.webShop.pages.topmenu.BooksPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import javax.print.DocFlavor;
 
@@ -28,8 +29,7 @@ public class CellPhonePage extends BasePage {
     WebElement closeNotification;
 
     public CellPhonePage closeNitificationSuccess() {
-        click(closeNotification);
-
+        wait.until(ExpectedConditions.elementToBeClickable(closeNotification)).click();
         return this;
     }
     @FindBy(css = ".cart-label")

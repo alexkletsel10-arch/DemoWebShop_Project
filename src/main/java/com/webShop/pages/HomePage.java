@@ -13,6 +13,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.Assert;
+import org.openqa.selenium.By;
 
 public class HomePage extends BasePage {
 
@@ -122,12 +123,11 @@ public class HomePage extends BasePage {
 
     }
 
-    @FindBy(css = "[href='/electronics']")
-    WebElement smartPhone;
-
+//    @FindBy(css = "[href='/electronics']")
+//    WebElement smartPhone;
+    By electronicsLink = By.cssSelector("[href='/electronics']");
     public ElectronicsPage selectElectronics() {
-       wait.until(ExpectedConditions.elementToBeClickable(smartPhone)).click();
-
+       wait.until(ExpectedConditions.elementToBeClickable(electronicsLink)).click();
         return new ElectronicsPage(driver);
     }
 

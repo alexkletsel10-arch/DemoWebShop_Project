@@ -1,0 +1,16 @@
+20:37:00.075 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+20:37:03.173 [main] INFO  com.webShop.tests.TestBase -- Start testaddApparelItemToCart[]
+20:37:03.182 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:37:03.485 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:37:03.486 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:37:03.486 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+20:37:04.261 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:37:04.261 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:37:04.263 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:37:04.862 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:37:04.863 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:37:14.997 [main] ERROR com.webShop.tests.TestBase -- FAILEDaddApparelItemToCartScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1781285834994.png
+20:37:14.997 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:37:14.997 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

@@ -1,0 +1,13 @@
+20:00:22.425 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+20:00:25.135 [main] INFO  com.webShop.tests.TestBase -- Start testdeletePhoneFrom[]
+20:00:25.148 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:00:25.567 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:00:25.569 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:00:25.975 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:00:25.976 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:00:26.976 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:00:27.378 [main] INFO  com.webShop.tests.TestBase -- PASSEDdeletePhoneFrom
+20:00:27.378 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:00:27.378 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

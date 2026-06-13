@@ -17,7 +17,6 @@ public class DeleteItemTests extends TestBase{
     public void deletePhoneFrom() {
         new ElectronicsPage(driver)
                 .selectCellPhones();
-
         new CellPhonePage(driver)
                 .addToCartSmartPhone()
                 .closeNitificationSuccess()

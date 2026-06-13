@@ -10,13 +10,14 @@ import org.testng.annotations.Test;
 public class AddItemApparelTests extends TestBase{
     @BeforeMethod
     public void preconditions(){
-        new HomePage(driver)
-                .selectApparelAndShoes();
+        loginAsRegisteredUser();
     }
     @Test
     public void addApparelItemToCart(){
+        new HomePage(driver)
+                .selectApparelAndShoes();
         new ApparelAndShoesPage(driver)
-                  .selectSneakers()
+                   .selectSneakers()
                    .selectColorBlack()
                    .clickOnAddToCartB()
                    .closeGreenMassegeBar()
@@ -29,12 +30,14 @@ public class AddItemApparelTests extends TestBase{
     }
     @Test
     public void addItemToWishList(){
+        new HomePage(driver)
+                .selectApparelAndShoes();
         new ApparelAndShoesPage(driver)
                 .selectSneakers()
                 .selectColorBlack()
                 .clickOnAddToWishListButton()
                 .clickOnSuccessBarNotification()
                 .clickOnWishlist()
-                .verifyItemSneakers("Blue and green Sneaker");
+                .verifyItemSneakers();
     }
 }

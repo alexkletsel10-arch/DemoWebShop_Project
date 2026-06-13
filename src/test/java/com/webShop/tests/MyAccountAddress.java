@@ -8,11 +8,12 @@ import org.testng.annotations.Test;
 public class MyAccountAddress extends TestBase{
     @BeforeMethod
     public void openAddressPage(){
-        new HomePage(driver)
-                .clickOnAddressLink();
+        loginAsRegisteredUser();
     }
     @Test
     public void editUsersAddress(){
+        new HomePage(driver)
+                .clickOnAddressLink();
         new EditAddressPage(driver)
                 .clickOnEditButton()
                 .selectCountry("Belgium")

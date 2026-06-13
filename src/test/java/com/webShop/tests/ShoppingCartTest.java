@@ -58,9 +58,6 @@ public class ShoppingCartTest extends TestBase{
                 .updateProductQuantity("Fiction",5)
                 .isTotalUpdated("Fiction","1");
 
-
-
-
     }
 
     }

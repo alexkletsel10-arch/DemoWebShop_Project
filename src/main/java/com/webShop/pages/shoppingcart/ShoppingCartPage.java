@@ -60,8 +60,8 @@ public class ShoppingCartPage extends BasePage {
 
     @FindBy(id = "StateProvinceId")
     WebElement StateProvinceId;
-
     public ShoppingCartPage selectStateProvince(String state) {
+        wait.until(ExpectedConditions.textToBePresentInElement(StateProvinceId,"Illinois"));
         Select select = new Select(StateProvinceId);
         select.selectByVisibleText(state);
         return this;
@@ -183,10 +183,8 @@ public class ShoppingCartPage extends BasePage {
             String title = elem.findElement(By.cssSelector(".product-name")).getText();
             if (title.equals(productName)) {
                 return elem.findElement(By.cssSelector(".product-unit-price")).getText();
-
             }
         }
-
         return null;
     }
 
@@ -199,11 +197,9 @@ public class ShoppingCartPage extends BasePage {
             if (currentName.equals(productName)) {
                 WebElement removeCheckBox = row.findElement(By.cssSelector(".remove-from-cart input[name='removefromcart']"));
                 click(removeCheckBox);
-
             }
         }
         return this;
-
 
     }
 
@@ -241,14 +237,11 @@ public class ShoppingCartPage extends BasePage {
         for(WebElement product: itemsList){
             if(!list.contains(product)){
                 list.add(product.getText());
-
-
             }
         }
         return list;
 
     }
-
     public boolean isCartNotEmpty() {
             if(itemsList.size() > 0){
                 return true;
@@ -260,18 +253,16 @@ public class ShoppingCartPage extends BasePage {
 
     public ShoppingCartPage updateProductQuantity(String productName, int newQuantity) {
         for(WebElement item: itemsList){
-            WebElement title = item.findElement(By.className("product-name"));
-            WebElement quantityBox = item.findElement(By.cssSelector("input.qty-input"));
+            WebElement title = item.findElement(By.cssSelector("td.product .product-name"));
+            WebElement quantityBox = item.findElement(By.cssSelector(".cart-item-row input.qty-input"));
             if(title.getText().equals(productName)){
                 click(quantityBox);
                 quantityBox.clear();
                 quantityBox.sendKeys(String.valueOf(newQuantity));
                 click(updateShoppingCart);
-
+                break;
 
             }
-
-
         }
         return this;
     }

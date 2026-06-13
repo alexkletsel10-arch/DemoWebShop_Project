@@ -1,0 +1,17 @@
+14:02:43.477 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+14:02:46.182 [main] INFO  com.webShop.tests.TestBase -- Start testaddItemToWishList[]
+14:02:46.190 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:02:46.496 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:02:46.496 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:02:46.496 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+14:02:47.130 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:02:47.131 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:02:47.135 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:02:47.796 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:02:47.797 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:02:49.409 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+14:03:00.001 [main] ERROR com.webShop.tests.TestBase -- FAILEDaddItemToWishListScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1781348579999.png
+14:03:00.002 [main] INFO  com.webShop.tests.TestBase -- Stop test
+14:03:00.002 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

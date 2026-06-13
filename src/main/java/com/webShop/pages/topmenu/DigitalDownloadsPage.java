@@ -26,7 +26,6 @@ public class DigitalDownloadsPage extends BasePage {
                     return this;
             }
         }
-
      return null;
     }
    @FindBy(id = "addtocart_53_EnteredQuantity")
@@ -43,10 +42,8 @@ public class DigitalDownloadsPage extends BasePage {
     }
     @FindBy(css = ".close")
     WebElement close;
-
     public DigitalDownloadsPage clickOnSuccessBarNotification() {
-        click(close);
-
+       wait.until(ExpectedConditions.elementToBeClickable(close)).click();
         return this;
     }
 
