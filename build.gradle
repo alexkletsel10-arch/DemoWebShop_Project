@@ -43,6 +43,10 @@ task qa1(type:Test) {
                 useTestNG() {
                     suites 'src/test/resources/addItemApparel.xml'
                 }
+                task qa5(type: Test) {
+                    useTestNG() {
+                        suites 'src/test/resources/applyGiftCardTest.xml'
+                    }
                 test {
                     useTestNG()
                 }
@@ -50,4 +54,5 @@ task qa1(type:Test) {
             }
         }
     }
+}
 }

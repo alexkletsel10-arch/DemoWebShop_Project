@@ -1,0 +1,11 @@
+<suite name="Gift Card" verbose="1">
+
+    <test name="Gift Card">
+
+        <classes>
+            <class name="com.webShop.tests.ApplyGiftCardTests"/>
+        </classes>
+
+    </test>
+
+</suite>
