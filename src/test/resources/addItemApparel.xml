@@ -1,0 +1,11 @@
+<suite name="Apparel Purchase Suite" verbose="1">
+
+    <test name="Add Apparel Item To Cart Test">
+
+        <classes>
+            <class name="com.webShop.tests.AddItemApparelTests"/>
+        </classes>
+
+    </test>
+
+</suite>
