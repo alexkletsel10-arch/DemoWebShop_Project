@@ -147,7 +147,7 @@ public class HomePage extends BasePage {
         click(searchLink);
         return  new SearchPage(driver);
     }
-    @FindBy(xpath = "//a[text()='Addresses']")
+    @FindBy(css = "a[href='/customer/addresses']")
     WebElement adressLink;
     public EditAddressPage clickOnAddressLink() {
         wait.until(ExpectedConditions.elementToBeClickable(adressLink)).click();

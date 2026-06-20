@@ -1,0 +1,14 @@
+20:23:53.983 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+20:23:57.051 [main] INFO  com.webShop.tests.TestBase -- Start testeditUsersAddress[]
+20:23:57.061 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:23:57.375 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:23:57.375 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:23:57.375 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+20:23:57.535 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:23:57.535 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:23:57.536 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:23:58.373 [main] ERROR com.webShop.tests.TestBase -- FAILEDeditUsersAddressScreenshot path: /Users/alenkletsel/Projects_Automation/DemoWebshopPom/screenshots/screen-1781889838371.png
+20:23:58.373 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:23:58.373 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

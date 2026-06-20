@@ -18,7 +18,7 @@ public class EditAddressPage extends BasePage {
     public EditAddressPage(WebDriver driver) {
         super(driver);
     }
-    @FindBy(css = "[type='button']")
+    @FindBy(css = "input[value='Edit']")
     List<WebElement> edit1;
     public EditAddressPage clickOnEditButton() {
        edit1.get(0).click();

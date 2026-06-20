@@ -47,12 +47,18 @@ task qa1(type:Test) {
                     useTestNG() {
                         suites 'src/test/resources/applyGiftCardTest.xml'
                     }
-                test {
-                    useTestNG()
-                }
+                    task qa6(type: Test) {
+                        useTestNG() {
+                            suites 'src/test/resources/SearchProductTest.xml'
+                        }
 
+                        test {
+                            useTestNG()
+                        }
+
+                    }
+                }
             }
         }
     }
-}
 }

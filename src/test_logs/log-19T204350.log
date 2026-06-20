@@ -1,0 +1,16 @@
+20:43:50.775 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/alenkletsel/Library/Caches/JetBrains/IdeaIC2025.2/temp-testng-customsuite.xml
+
+20:43:53.526 [main] INFO  com.webShop.tests.TestBase -- Start testeditUsersAddress[]
+20:43:53.536 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:43:53.853 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:43:53.854 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:43:53.854 [main] INFO  com.webShop.pages.BasePage -- fill in login fieldsdominnee@gm.com
+20:43:54.625 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:43:54.625 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:43:54.627 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:43:55.025 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:43:55.025 [main] INFO  com.webShop.pages.BasePage -- Test statrt in Chrome browser
+20:43:56.548 [main] INFO  com.webShop.tests.TestBase -- PASSEDeditUsersAddress
+20:43:56.548 [main] INFO  com.webShop.tests.TestBase -- Stop test
+20:43:56.548 [main] INFO  com.webShop.tests.TestBase -- ********************************************************

@@ -61,7 +61,7 @@ public class ShoppingCartPage extends BasePage {
     @FindBy(id = "StateProvinceId")
     WebElement StateProvinceId;
     public ShoppingCartPage selectStateProvince(String state) {
-        wait.until(ExpectedConditions.textToBePresentInElement(StateProvinceId,"Illinois"));
+        wait.until(ExpectedConditions.textToBePresentInElement(StateProvinceId,state));
         Select select = new Select(StateProvinceId);
         select.selectByVisibleText(state);
         return this;

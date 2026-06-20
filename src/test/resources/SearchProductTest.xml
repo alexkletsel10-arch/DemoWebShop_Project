@@ -1,0 +1,10 @@
+<suite name="Search" verbose="1">
+
+    <test name="Search">
+        <classes>
+            <class name="com.webShop.tests.SearchInFooterTest"/>
+            <class name="com.webShop.tests.SearchProductTests"/>
+        </classes>
+    </test>
+
+</suite>
